@@ -1,0 +1,8 @@
+{"create":{}}
+{"name": "alex", "@timestamp": "2022-01-01T10:00:00Z", "score": 11.1, "email": "alex@gmail.com"}
+{"create":{}}
+{"name": "bob", "@timestamp": "2022-01-01T10:01:00Z", "score": 22.2, "email": "bob@gmail.com"}
+{"create":{}}
+{"name": "joe","@timestamp": "2022-01-01T10:02:00Z", "score": 33.3, "email": "joe@gmail.com"}
+{"create":{}}
+{"name": "mark", "@timestamp": "2022-01-01T10:03:00Z", "score": 44.4, "email": "mark@gmail.com"}

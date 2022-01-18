@@ -1,0 +1,11 @@
+{
+  "connector.class": "com.github.dariobalinzo.ElasticSourceConnector",
+  "topic.prefix": "es_",
+  "task.max": "1",
+  "poll.interval.ms": 3000,
+  "es.host": "elasticsearch",
+  "es.port": "9200",
+  "incrementing.field.name": "@timestamp",
+  "index.prefix": "mock-index",
+  "fieldname_converter": "avro"
+}
