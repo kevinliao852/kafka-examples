@@ -1,0 +1,8 @@
+{
+  "connector.class": "io.confluent.connect.elasticsearch.ElasticsearchSinkConnector",
+  "topics": "my-topic",
+  "connection.url": "http://elasticsearch:9200",
+  "type.name": "type.name=kafkaconnect",
+  "key.ignore": "true",
+  "schema.ignore": "true"
+}

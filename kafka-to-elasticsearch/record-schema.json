@@ -1,0 +1,47 @@
+{
+  "type": "record",
+  "namespace": "kafka-demo",
+  "name": "MockData",
+  "fields": [
+    {
+      "name": "id",
+      "type": "long",
+      "doc": "The id"
+    },
+    {
+      "name": "first_name",
+      "type": "string",
+      "doc": "The first name."
+    },
+    {
+      "name": "last_name",
+      "type": "string",
+      "doc": "The last name."
+    },
+    {
+      "name": "age",
+      "type": "long",
+      "doc": "The age."
+    },
+    {
+      "name": "email",
+      "type": "string",
+      "doc": "The email."
+    },
+    {
+      "name": "gender",
+      "type": "string",
+      "doc": "The gender."
+    },
+    {
+      "name": "ip_address",
+      "type": "string",
+      "doc": "The ip address."
+    },
+    {
+      "name": "score",
+      "type": "double",
+      "doc": "The score."
+    }
+  ]
+}
